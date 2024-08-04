@@ -1,0 +1,9 @@
+Buildfile: C:\Users\abc\Documents\Mendix\New folder\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\abc\Documents\Mendix\New folder\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

@@ -1,0 +1,10 @@
+Buildfile: C:\Users\abc\Documents\Mendix\New folder\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 33 files to C:\Users\abc\Documents\Mendix\New folder\deployment
+    [unzip] Expanding: C:\Users\abc\Documents\Mendix\New folder\data-snapshot.zip into C:\Users\abc\Documents\Mendix\New folder\deployment
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
